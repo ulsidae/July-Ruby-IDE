@@ -42,7 +42,7 @@ This name comes from Ruby, the birthstone of July.
 ## 🚀 Run
 
 You can download and run it directly on Windows.
-🍯 [Download]()
+🍯 [Download](https://github.com/ulsidae/July-Ruby-IDE/releases)
 
 Or you can build it yourself using Python.
 🍯 [Source Code](https://github.com/ulsidae/July-Ruby-IDE/blob/main/main.py)
