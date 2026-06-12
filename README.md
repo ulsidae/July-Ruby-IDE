@@ -7,7 +7,7 @@ A lightweight Ruby learning IDE built for experimenting, learning, and executing
 This project focuses on creating a minimal but functional coding environment for beginners who want to understand how Ruby works in practice rather than relying on full-scale IDEs.
 
 It was built in a Japanese-localized environment to simulate real Ruby learning context.
-🌐 [Japanese Version ]()
+🌐 [Japanese Version (日本語版)](https://github.com/ulsidae/July-Ruby-IDE/blob/main/README.ja.md)
 
 ---
 
