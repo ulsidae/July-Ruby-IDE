@@ -1,5 +1,7 @@
 # 🌙 July Ruby IDE
 
+> TODO: Rewrite README for v2.0
+
 <img src="https://github.com/ulsidae/July-Ruby-IDE/blob/main/img/img.jpg" height="400"/>
 
 A lightweight Ruby learning IDE built for experimenting, learning, and executing Ruby code in real time.
