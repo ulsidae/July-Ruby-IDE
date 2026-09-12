@@ -1,6 +1,6 @@
 # 🌙 July Ruby IDE（日本語版）
 
-<img src="https://github.com/ulsidae/July-Ruby-IDE/blob/main/img/11111.PNG" height="400"/>
+<img src="https://github.com/ulsidae/July-Ruby-IDE/blob/main/img/img.jpg" height="400"/>
 
 Rubyのコード実行フローを学習するための軽量IDEです。  
 実際にコードを動かしながら、Rubyの挙動を理解することを目的としています。
