@@ -4,7 +4,7 @@
 
 > コードがどのように実行されるのかを学び、試しながら理解するための軽量なRuby IDE。
 
-🍯 [ダウンロード](https://github.com/ulsidae/July-Ruby-IDE/releases/tag/v2.0)
+🍯 [ダウンロード](https://github.com/ulsidae/July-Ruby-IDE/releases/tag/v2.0) | 🔗[動作確認ビデオ](https://youtu.be/TkjT8uIRhOw) 
 
 **July Ruby IDE** は、PythonとTkinterで構築した軽量なRuby開発環境です。
 
