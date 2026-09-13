@@ -4,6 +4,8 @@
 
 > A lightweight Ruby IDE for learning, experimenting, and understanding how code execution works.
 
+🍯 [Download](https://github.com/ulsidae/July-Ruby-IDE/releases/tag/v2.0)
+
 **July Ruby IDE** is a lightweight Ruby development environment built with Python and Tkinter.
 
 Instead of trying to compete with full-scale IDEs, this project focuses on something simpler:
@@ -375,9 +377,6 @@ The IDE automatically attempts to locate the Ruby executable using:
 ```bash
 python main.py
 ```
-
-You can download and run it directly on Windows.
-🍯 [Download](https://github.com/ulsidae/July-Ruby-IDE/releases/tag/v2.0)
 
 Source:
 
