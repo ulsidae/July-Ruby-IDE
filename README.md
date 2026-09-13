@@ -198,7 +198,7 @@ However, making it behave like an interactive development environment introduced
 
 Initially, the basic execution model was straightforward:
 
-```text
+```
 Source Code
     ↓
 Temporary .rb File
@@ -235,7 +235,7 @@ The Ruby process can continue producing output while the GUI needs to remain res
 
 Reading process output directly from the Tkinter main thread could block the interface, so July Ruby IDE uses a background thread to read the process output and a `queue.Queue` to pass that data back to the UI.
 
-```text
+```
 Ruby Process
      ↓
 stdout / stderr
@@ -301,7 +301,7 @@ The purpose was to understand what happens **between pressing "Run" and seeing p
 
 Instead of hiding the execution process behind an IDE, July Ruby IDE keeps the pipeline relatively visible:
 
-```text
+```
 Source Code
     ↓
 Temporary Ruby File
@@ -375,6 +375,9 @@ The IDE automatically attempts to locate the Ruby executable using:
 ```bash
 python main.py
 ```
+
+You can download and run it directly on Windows.
+🍯 [Download](https://github.com/ulsidae/July-Ruby-IDE/releases/tag/v2.0)
 
 Source:
 
