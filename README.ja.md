@@ -4,6 +4,8 @@
 
 > コードがどのように実行されるのかを学び、試しながら理解するための軽量なRuby IDE。
 
+🍯 [ダウンロード](https://github.com/ulsidae/July-Ruby-IDE/releases/tag/v2.0)
+
 **July Ruby IDE** は、PythonとTkinterで構築した軽量なRuby開発環境です。
 
 本格的なIDEと競合することを目的とせず、もっとシンプルなことに焦点を当てています。
